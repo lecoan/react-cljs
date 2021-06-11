@@ -8,7 +8,9 @@
                  [org.clojure/clojurescript "1.10.866"]
                  [reagent "1.1.0"]
                  [cljsjs/react "17.0.2-0"]
-                 [cljsjs/react-dom "17.0.2-0"]]
+                 [cljsjs/react-dom "17.0.2-0"]
+                 [cljsjs/material-ui "4.11.0-0"]
+                 [cljsjs/material-ui-icons "4.4.1-0"]]
 
   :plugins [[lein-cljsbuild "1.1.7"]
             [lein-figwheel "0.5.20"]]
